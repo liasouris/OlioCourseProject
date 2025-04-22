@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.net.URL;
 
 public class DataRetriever {
-    private static final String API_KEY = "1703bdfd503c84d8e12227cd540f8262";
+    private static final String API_KEY = "";
 
     private static final String GEOCODING_URL =
             "https://api.openweathermap.org/geo/1.0/direct?q=%s,FI&limit=5&appid=%s";
